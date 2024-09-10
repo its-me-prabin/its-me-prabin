@@ -1,6 +1,6 @@
 <h2>Hi 👋, its-me-prabin</h2>
 Learning at my best</br>
-🔭 I’m currently working on **year end project**</br>
+🔭 I work on differnet ** project**</br>
 🌱 I’m currently learning **MERN satck,ML..**</br>
  📫 How to reach me
  
